@@ -1,1 +1,1 @@
-1       RCDATA "data.txt"
+MYDATA RCDATA "data.txt"
